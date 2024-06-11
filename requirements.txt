@@ -1,0 +1,5 @@
+google-generativeai
+langchain-community
+langchain_huggingface
+chromadb
+langchain sentence_transformers
